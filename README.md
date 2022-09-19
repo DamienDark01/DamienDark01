@@ -8,7 +8,7 @@
 - Android App Development with Java
 - Database Management with MySQL
 -
-- 💞️ I’m looking to collaborate on... Well I'm not so sure as of right now since I'm still learning... Will let you know in the future!
+- 💞️ I’m looking to collaborate on : Full Stack Web Development and Software Engineering
 -
 - 📫 How to reach me : damithinduranga@gmail.com
 
