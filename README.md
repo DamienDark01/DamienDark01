@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @DamienDark01!
+- ![image](https://user-images.githubusercontent.com/105861697/226199718-1249b610-07d7-416d-9007-27154a245903.png)
+
 -
 - 👀 I’m interested in becoming a full stack developer.
 -
 - 🌱 I’m currently learning :
-- Java, Python, C Programming
+- Java, Python, C, C++ Programming
 - HTML, CSS, JavaScript, TypeScript, Angular, React.js
 - Android App Development with Java
-- Database Management with MySQL
+- Database Management with MySQL, MS SQL Server
 -
 - 💞️ I’m looking to collaborate on : Full Stack Web Development and Software Engineering
 -
