@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamienDark01!
 -
-- 👀 I’m interested in becoming a full stack developer.
+- 👀 I’m interested in becoming a network engineer / full stack developer.
 -
 - 🌱 I’m currently learning :
 - Java, Python, C, C++ Programming
