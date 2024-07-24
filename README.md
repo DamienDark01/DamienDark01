@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DamienDark01!<br><br>👀 I’m interested in becoming a system engineer / network engineer / full stack developer.<br><br>🌱 I’m currently learning :<br>- Computer Systems and Network Engineering<br>- Java, Python, C, C++ Programming<br>- HTML, CSS, JavaScript, TypeScript, Angular, React.js<br>- Android App Development with Java<br>- Database Administration with Oracle Database<br>- Database Management with MySQL, MS SQL Server<br><br>💞️ I’m looking to collaborate on :<br>- System Administration<br>- Full Stack Web Development<br>- Network Engineering<br><br>📫 How to reach me : damithinduranga@gmail.com
+👋 Hi, I’m @DamienDark01!<br><br>👀 I’m interested in becoming a system engineer / network engineer / full stack developer.<br><br>🌱 I’m currently learning :<br>- Computer Systems and Network Engineering<br>- Java, Python, C, C++ Programming<br>- HTML, CSS, JavaScript, TypeScript, Angular, React.js<br>- Android App Development with Java<br>- Database Administration and Management with Oracle Database, MySQL, and MS SQL Server<br><br>💞️ I’m looking to collaborate on :<br>- System Administration<br>- Full Stack Web Development<br>- Network Engineering<br><br>📫 How to reach me : damithinduranga@gmail.com
 
 
 ## 🌐 Socials:
